@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Théo
 - 👀 I’m interested in computer science and data science.
-- 🌱 I’m currently learning python, C++, java 
+- 🌱 I’m currently learning Python, C++, Java and angular
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me theoxlin@gmail.com
-- ⚡ Fun fact: i love volley ball, let's play together :)
+- ⚡ Fun fact: I love volleyball, let's play together :)
 
 <!---
 eothL/eothL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
