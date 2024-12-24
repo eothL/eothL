@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Théo
 - 👀 I’m interested in computer science and data science.
-- 🌱 I’m currently learning Python, C++, Java.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me lin.theob@gmail.com
 - ⚡ Fun fact: I love volleyball, let's play together :)
