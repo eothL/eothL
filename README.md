@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI stuff.
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on nothing for the moment
-- 📫 How to reach me lin.theob@gmail.com
+- 📫 How to reach me theoxlin@gmail.com
 - ⚡ Fun fact: I love volleyball, let's play together :)
 
 
